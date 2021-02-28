@@ -8,6 +8,10 @@ A graduate computer science student at LMU Munich. After graduating with a degre
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😅 Fun fact: After high school, I took a year off and traveled around Europe, where I learned a lot and was able to broaden my horizons. During this year, I worked as a waiter and a sneaker seller.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/59IJcYEtPJJe11ddUHSbSf?si=f842416fdf624b46)
+
 ### Connect with me:
 
 [<img align="left" alt="mustafayasin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
