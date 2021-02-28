@@ -5,5 +5,5 @@ A graduate computer science student at LMU Munich. After graduating with a degre
 - 🎓 I'll be Teaching Assistant in ***Data Structures and Algorithms*** at LMU in SS2021.
 - 🔭 I'm currently a Working Student at [Boston Consulting Group](https://www.bcg.com/de-de/)
 - 👯 I’m looking to collaborate with other engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😅 Fun fact: After high school, I took a year off and traveled around Europe, where I learned a lot and was able to broaden my horizons. During this year, I worked as a waiter and a sneaker seller.
