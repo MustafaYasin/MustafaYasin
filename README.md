@@ -1,1 +1,8 @@
+## Hi, I'm Mustafa 👋
 
+A graduate computer science student at LMU Munich. After graduating with a degree in Mechatronics in 2018, I spent a year abroad at the University of Technology Sydney and Peking University.
+
+- 🎓 I'll be Teaching Assistant in ***Data Structures and Algorithms*** at LMU in SS2021.
+- 🔭 I'm currently a Working Student at [Boston Consulting Group](https://www.bcg.com/de-de/)
+- 👯 I’m looking to collaborate with other engineers
+- 😅 Fun fact: After high school, I took a year off and traveled around Europe, where I learned a lot and was able to broaden my horizons. During this year, I worked as a waiter and a sneaker seller.
