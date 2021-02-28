@@ -7,3 +7,15 @@ A graduate computer science student at LMU Munich. After graduating with a degre
 - 👯 I’m looking to collaborate with other engineers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😅 Fun fact: After high school, I took a year off and traveled around Europe, where I learned a lot and was able to broaden my horizons. During this year, I worked as a waiter and a sneaker seller.
+
+### Connect with me:
+
+[<img align="left" alt="mustafayasin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MustafaYasin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MustafaYasin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MustafaYasin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://mustafayasin.com
+[twitter]: https://twitter.com/darre1l
+[instagram]: https://www.instagram.com/darre1l/
+[linkedin]: https://www.linkedin.com/in/mustafayasin/
