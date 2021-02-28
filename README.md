@@ -10,7 +10,7 @@ A graduate computer science student at LMU Munich. After graduating with a degre
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/59IJcYEtPJJe11ddUHSbSf?si=f842416fdf624b46)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MustafaYasin Spotify Playing" width="350" />](https://open.spotify.com/playlist/59IJcYEtPJJe11ddUHSbSf?si=f842416fdf624b46)
 
 ### Connect with me:
 
