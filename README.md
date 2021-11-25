@@ -21,5 +21,5 @@ A graduate computer science student at LMU Munich. After graduating with a degre
 
 [website]: https://mustafayasin.com
 [twitter]: https://twitter.com/darre1l
-[instagram]: https://www.instagram.com/darre1l/
+[instagram]: https://www.instagram.com/shanksyasin/
 [linkedin]: https://www.linkedin.com/in/mustafayasin/
