@@ -2,7 +2,7 @@
 
 A graduate computer science student at LMU Munich. After graduating with a degree in Mechatronics in 2018, I spent a year abroad at the University of Technology Sydney and Peking University.
 
-- 🎓 I'll be a Teaching Assistant in ***Data Structures and Algorithms*** at LMU in SS2021.
+- 🎓 I'm a Teaching Assistant in ***Data Structures and Algorithms*** at LMU.
 - 🔭 I'm currently a Working Student at [Adobe](https://www.adobe.com/)
 - 👯 I’m looking to collaborate with other engineers.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
