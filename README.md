@@ -1,6 +1,6 @@
 ## Hi, I'm Mustafa 👋
 
-A graduate computer science student at LMU Munich. After graduating with a degree in Mechatronics in 2018, I spent a year abroad at the University of Technology Sydney and Peking University.
+A graduate computer science student at LMU Munich and ETH Zurich. After graduating with a degree in Mechatronics in 2018, I spent a year abroad at the University of Technology Sydney and Peking University.
 
 - 🎓 I'm a Student Assistant at [ETH AI Center](https://ai.ethz.ch/)
 - 🔭 I'm currently a Working Student at [Adobe](https://www.adobe.com/)
