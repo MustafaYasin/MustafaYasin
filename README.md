@@ -17,7 +17,7 @@ At [LMU Munich](https://www.lmu.de/de/index.html) & [ETH Zurich](https://ethz.ch
 * [Data Structures and Algorithms](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/algodat22/index.html)
 * [Software Engineering Lab](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/sep2122/index.html)
 
-## Connect with me:
+## Connect with me
 
 [<img align="left" alt="mustafayasin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MustafaYasin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
