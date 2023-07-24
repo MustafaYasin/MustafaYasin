@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Mustafa, a Machine Learning Engineer living in Munich, Germany.
+I'm Mustafa, a Machine Learning Engineer and consultant living in Munich, Germany.
 
 ## Projects
 
