@@ -5,7 +5,7 @@ I'm Mustafa, a machine learning engineer and consultant living in Munich, German
 ## Projects
 
 * [Co-Founder](https://github.com/MustafaYasin/thesis), Co-Founder is a web app that matches Co-Founders
-* [AI Eye](https://github.com/MustafaYasin/pml), this app employs AI to aid visually impaired individuals in everyday situations
+* [EyeAI](https://github.com/MustafaYasin/pml), this app employs AI to aid visually impaired individuals in everyday situations
 * [RoboVolley](https://github.com/MustafaYasin/pml), a multi-agent game to competitively play volleyball
 
 
